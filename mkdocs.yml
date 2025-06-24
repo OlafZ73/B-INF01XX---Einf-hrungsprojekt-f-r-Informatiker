@@ -1,0 +1,21 @@
+site_name: B-INF01XX - Einführungsprojekt für Informatiker
+theme:
+  name: material
+  language: de
+ 
+
+
+nav:
+    - Inhaltsverzeichnis: index.md
+    - Verbale Beschreibung: Verbale Beschreibung.md
+    - Storyboard: Storyboard.md
+    - Objektorientierter Entwurf: Objektorientierter Entwurf.md
+    - Implementierungsbeschreibung: Implementierungsbeschreibung.md
+    - Demo: Demo.md
+    - Erweiterungen: Erweiterungen.md
+    - Reflexion: Reflexion.md
+
+extra_css:
+  - extra.css
+markdown_extensions:
+  - attr_list
