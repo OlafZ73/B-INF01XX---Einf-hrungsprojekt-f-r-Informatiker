@@ -2,8 +2,8 @@ site_name: B-INF01XX - Einführungsprojekt für Informatiker
 theme:
   name: material
   language: de
- 
 
+use_directory_urls: false 
 
 nav:
     - Inhaltsverzeichnis: index.md
